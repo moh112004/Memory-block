@@ -4,6 +4,11 @@
   body {
     font-family: Arial, Tahoma, sans-serif;
   }
+  .lable {
+    font-size: 50px;
+    direction: rtl;
+    text-align: center;
+  }
   .control-buttons {
     position: fixed;
     left: 0;
